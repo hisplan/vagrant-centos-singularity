@@ -31,7 +31,7 @@ $ singularity
 
 ## Notes
 
-- The VM will have Ubuntu Trusty (64bit).
+- The VM will have CentOS 6.8.
 
 ## References
 
