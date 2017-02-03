@@ -1,4 +1,4 @@
-# vagrant-singularity
+# vagrant-centos-singularity
 
 Vagrant project to spin up a virtual machine where you can try out Singularity.
 
@@ -32,10 +32,3 @@ $ singularity
 ## Notes
 
 - The VM will have CentOS 6.8.
-
-## References
-
-
-```bash
-sudo singularity import analysis.img docker://ubuntu:latest
-```
