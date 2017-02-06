@@ -11,8 +11,11 @@ Vagrant project to spin up a virtual machine where you can try out Singularity.
 ## Spining Up Virtual Machine
 
 1. Install VirtualBox if not already installed on your machine (https://www.virtualbox.org/wiki/Downloads).
+
 1. Install Vagrant if not already instaleld on your machine (https://www.vagrantup.com/downloads.html).
+
 1. Check out this project from git.
+
 1. Run the following command from the directory where `Vagrantfile` and other files are placed. This will bring up a new virtual machine equipped with Singularity.
 
     ```bash
